@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=webmarks.xyz
+--content-root=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Home\About.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Home\Contact.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Home\Index.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Shared\Error.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Shared\_Layout.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\_ViewImports.cshtml
+--file=C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\Views\_ViewStart.cshtml

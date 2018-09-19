@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\bin\Debug\netcoreapp2.0\webmarks.xyz.deps.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\bin\Debug\netcoreapp2.0\webmarks.xyz.runtimeconfig.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\bin\Debug\netcoreapp2.0\webmarks.xyz.runtimeconfig.dev.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\bin\Debug\netcoreapp2.0\webmarks.xyz.dll
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\bin\Debug\netcoreapp2.0\webmarks.xyz.pdb
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.csprojAssemblyReference.cache
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.AssemblyInfo.cs
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.dll
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy\obj\Debug\netcoreapp2.0\webmarks.xyz.pdb
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\bin\Debug\netcoreapp2.0\webmarks.xyz.deps.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\bin\Debug\netcoreapp2.0\webmarks.xyz.runtimeconfig.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\bin\Debug\netcoreapp2.0\webmarks.xyz.runtimeconfig.dev.json
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\bin\Debug\netcoreapp2.0\webmarks.xyz.dll
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\bin\Debug\netcoreapp2.0\webmarks.xyz.pdb
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.AssemblyInfo.cs
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.dll
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.pdb
+C:\Users\user\source\repos\anurajAspNetCoreSamples\AspNetCoreSamples-master\Multitenancy - edited - sqlite\obj\Debug\netcoreapp2.0\webmarks.xyz.csprojAssemblyReference.cache
